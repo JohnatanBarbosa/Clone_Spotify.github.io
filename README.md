@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/Spotify-Logo.png">
+  <img width="300px" src="./assets/Spotify-Logo.png">
 </div>
 
 <div align="center">
